@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="info">Information</string>
+    <string name="name">User Name</string>
+    <string name="age">Age:</string>
+    <string name="pwd">Password:</string>
+    <string name="phone">Phone No.</string>
+    <string name="mail">Email id</string>
+</resources>

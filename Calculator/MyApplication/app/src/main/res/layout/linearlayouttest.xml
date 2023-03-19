@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_marginTop="20dp"
+    android:layout_marginLeft="10dp"
+    android:layout_marginRight="10dp"
+    >
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="74dp">
+    <TextView
+        android:id="@+id/text_view_name"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="@string/name"
+        android:textColor="@color/black"
+        android:textSize="18dp"
+        android:layout_weight="1"
+        android:gravity="left"/>
+
+    <EditText
+        android:id="@+id/edittext_name"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:hint="@string/name"
+        android:layout_weight="3"
+        android:background="@color/grey"/>
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="74dp">
+        <TextView
+            android:id="@+id/text_view_phone"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:text="@string/phone"
+            android:textColor="@color/black"
+            android:textSize="18dp"
+            android:layout_weight="1"/>
+
+        <EditText
+            android:id="@+id/edittext_phone"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:hint="@string/phone"
+            android:layout_weight="3"
+            android:background="@color/grey"/>
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="74dp">
+        <TextView
+            android:id="@+id/text_view_mail"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:text="@string/mail"
+            android:textColor="@color/black"
+            android:textSize="18dp"
+            android:layout_weight="1"/>
+
+        <EditText
+            android:id="@+id/edittext_mail"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:hint="@string/mail"
+            android:layout_weight="3"
+            android:background="@color/grey"/>
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="74dp"
+        android:weightSum="3"
+        >
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="Submit"
+            android:layout_weight="1.4"
+            android:id="@+id/button1"
+            android:backgroundTint="@color/lime"
+           />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.2" />
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="Cancel"
+            android:layout_weight="1.4"
+            android:id="@+id/button2"
+            android:backgroundTint="@color/red"
+            />
+
+    </LinearLayout>
+</LinearLayout>
