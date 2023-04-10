@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Week9_uploadVideo</string>
+    <string name="videoName">Enter the Video name</string>
+    <string name="choose_video">Choose Video</string>
+    <string name="show_video">Show Video</string>
+</resources>
