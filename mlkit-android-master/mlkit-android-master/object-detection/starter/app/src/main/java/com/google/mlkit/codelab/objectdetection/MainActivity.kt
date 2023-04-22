@@ -121,6 +121,25 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
             .addOnSuccessListener {
                 // Task completed successfully
                 debugPrint(it)
+                val detectedObjects = it.map { obj ->
+                    var text = "Unknown"
+
+                    // We will show the top confident detection result if it exist
+                    if (obj.labels.isNotEmpty()) {
+                        val firstLabel = obj.labels.first()
+                        text = "${firstLabel.text}, ${firstLabel.confidence.times(100).toInt()}%"
+                    }
+                    BoxWithText(obj.boundingBox, text)
+                }
+
+// Draw the detection result on the input bitmap
+                val visualizedResult = drawDetectionResult(bitmap, detectedObjects)
+
+// Show the detection result on the app screen
+                runOnUiThread {
+                    inputImageView.setImageBitmap(visualizedResult)
+                }
+
             }
             .addOnFailureListener {
                 // Task failed with an exception
@@ -129,6 +148,7 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
 
     }
     private fun debugPrint(detectedObjects: List<DetectedObject>) {
+
         detectedObjects.forEachIndexed { index, detectedObject ->
             val box = detectedObject.boundingBox
 
@@ -138,8 +158,10 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
             detectedObject.labels.forEach {
                 Log.d(TAG, " categories: ${it.text}")
                 Log.d(TAG, " confidence: ${it.confidence}")
+
             }
         }
+
     }
 
     /**
