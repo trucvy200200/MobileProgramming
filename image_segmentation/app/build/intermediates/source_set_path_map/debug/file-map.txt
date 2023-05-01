@@ -1,0 +1,44 @@
+org.tensorflow.lite.examples.imagesegmentation.app-navigation-runtime-2.4.2-0 C:\Users\ACER\.gradle\caches\transforms-3\0a31ad1f647c331f361835871e230fb9\transformed\navigation-runtime-2.4.2\res
+org.tensorflow.lite.examples.imagesegmentation.app-lifecycle-runtime-2.4.0-1 C:\Users\ACER\.gradle\caches\transforms-3\15fc251d4d45285aa9b121a06c0cf57f\transformed\lifecycle-runtime-2.4.0\res
+org.tensorflow.lite.examples.imagesegmentation.app-lifecycle-viewmodel-2.3.1-2 C:\Users\ACER\.gradle\caches\transforms-3\199dd1ae44b28c0a618b42bfe2549a48\transformed\lifecycle-viewmodel-2.3.1\res
+org.tensorflow.lite.examples.imagesegmentation.app-coordinatorlayout-1.1.0-3 C:\Users\ACER\.gradle\caches\transforms-3\3847e71b6f921adeef31231914c55e6b\transformed\coordinatorlayout-1.1.0\res
+org.tensorflow.lite.examples.imagesegmentation.app-navigation-common-2.4.2-4 C:\Users\ACER\.gradle\caches\transforms-3\3bbcf70844a60fa953278d861ed13a84\transformed\navigation-common-2.4.2\res
+org.tensorflow.lite.examples.imagesegmentation.app-jetified-viewpager2-1.0.0-5 C:\Users\ACER\.gradle\caches\transforms-3\450111bf9150a133598494aef3969404\transformed\jetified-viewpager2-1.0.0\res
+org.tensorflow.lite.examples.imagesegmentation.app-jetified-appcompat-resources-1.4.2-6 C:\Users\ACER\.gradle\caches\transforms-3\4bae11ee343d404b1c2ba5f768fda2ea\transformed\jetified-appcompat-resources-1.4.2\res
+org.tensorflow.lite.examples.imagesegmentation.app-jetified-annotation-experimental-1.1.0-7 C:\Users\ACER\.gradle\caches\transforms-3\50baa00750fe748369197d579a5d6f6e\transformed\jetified-annotation-experimental-1.1.0\res
+org.tensorflow.lite.examples.imagesegmentation.app-jetified-camera-view-1.2.0-alpha02-8 C:\Users\ACER\.gradle\caches\transforms-3\55faadd44e7c69d7c92e4965c8725483\transformed\jetified-camera-view-1.2.0-alpha02\res
+org.tensorflow.lite.examples.imagesegmentation.app-navigation-ui-ktx-2.4.2-9 C:\Users\ACER\.gradle\caches\transforms-3\5702ce77cca2b3cf71306a235108c962\transformed\navigation-ui-ktx-2.4.2\res
+org.tensorflow.lite.examples.imagesegmentation.app-jetified-savedstate-1.1.0-10 C:\Users\ACER\.gradle\caches\transforms-3\572311a0c33117426a9abf122198455f\transformed\jetified-savedstate-1.1.0\res
+org.tensorflow.lite.examples.imagesegmentation.app-jetified-fragment-ktx-1.4.1-11 C:\Users\ACER\.gradle\caches\transforms-3\591703a94db804edd37d6610ce050d77\transformed\jetified-fragment-ktx-1.4.1\res
+org.tensorflow.lite.examples.imagesegmentation.app-transition-1.4.1-12 C:\Users\ACER\.gradle\caches\transforms-3\619efb899473d56e35c16935e473b2ff\transformed\transition-1.4.1\res
+org.tensorflow.lite.examples.imagesegmentation.app-navigation-fragment-ktx-2.4.2-13 C:\Users\ACER\.gradle\caches\transforms-3\67cd93736d75ee51fd74cc6696ed3573\transformed\navigation-fragment-ktx-2.4.2\res
+org.tensorflow.lite.examples.imagesegmentation.app-navigation-ui-2.4.2-14 C:\Users\ACER\.gradle\caches\transforms-3\70f3dc496a5df40cfe8e2cc4a2e6e321\transformed\navigation-ui-2.4.2\res
+org.tensorflow.lite.examples.imagesegmentation.app-jetified-lifecycle-process-2.4.0-15 C:\Users\ACER\.gradle\caches\transforms-3\76d6cc18d216f7e549df4bbb2bbe7d1a\transformed\jetified-lifecycle-process-2.4.0\res
+org.tensorflow.lite.examples.imagesegmentation.app-jetified-window-1.1.0-alpha02-16 C:\Users\ACER\.gradle\caches\transforms-3\771a06e7375a1dec2b21460cf844f21e\transformed\jetified-window-1.1.0-alpha02\res
+org.tensorflow.lite.examples.imagesegmentation.app-core-1.8.0-17 C:\Users\ACER\.gradle\caches\transforms-3\778f6dd45cb0b966c159a9437afec345\transformed\core-1.8.0\res
+org.tensorflow.lite.examples.imagesegmentation.app-jetified-camera-core-1.2.0-alpha02-18 C:\Users\ACER\.gradle\caches\transforms-3\7d16421cc9c5cfb4b4cbb373a3cdb541\transformed\jetified-camera-core-1.2.0-alpha02\res
+org.tensorflow.lite.examples.imagesegmentation.app-jetified-startup-runtime-1.0.0-19 C:\Users\ACER\.gradle\caches\transforms-3\841936a3f8ae3c7d3b33e82e7f2b71ea\transformed\jetified-startup-runtime-1.0.0\res
+org.tensorflow.lite.examples.imagesegmentation.app-material-1.6.1-20 C:\Users\ACER\.gradle\caches\transforms-3\8c50403dd2a2e28b229236ff82e23f16\transformed\material-1.6.1\res
+org.tensorflow.lite.examples.imagesegmentation.app-jetified-emoji2-views-helper-1.0.0-21 C:\Users\ACER\.gradle\caches\transforms-3\93a0285e9180b06aaf0a38479710a042\transformed\jetified-emoji2-views-helper-1.0.0\res
+org.tensorflow.lite.examples.imagesegmentation.app-slidingpanelayout-1.2.0-22 C:\Users\ACER\.gradle\caches\transforms-3\a5d86b819dfb2dc01635d7c2ebe0f3ec\transformed\slidingpanelayout-1.2.0\res
+org.tensorflow.lite.examples.imagesegmentation.app-cardview-1.0.0-23 C:\Users\ACER\.gradle\caches\transforms-3\a733374887462492b6f1e186abc03b45\transformed\cardview-1.0.0\res
+org.tensorflow.lite.examples.imagesegmentation.app-jetified-emoji2-1.0.0-24 C:\Users\ACER\.gradle\caches\transforms-3\b5deb0b78e47b292a08d0d39a22199fc\transformed\jetified-emoji2-1.0.0\res
+org.tensorflow.lite.examples.imagesegmentation.app-jetified-camera-camera2-1.2.0-alpha02-25 C:\Users\ACER\.gradle\caches\transforms-3\b7545399a2064b43b1945d16d035b17c\transformed\jetified-camera-camera2-1.2.0-alpha02\res
+org.tensorflow.lite.examples.imagesegmentation.app-navigation-runtime-ktx-2.4.2-26 C:\Users\ACER\.gradle\caches\transforms-3\c8a105f67c3cdc29cfc37b29106ad46c\transformed\navigation-runtime-ktx-2.4.2\res
+org.tensorflow.lite.examples.imagesegmentation.app-constraintlayout-2.1.4-27 C:\Users\ACER\.gradle\caches\transforms-3\ca9dd220e3fe8b253e4c99c17940cd74\transformed\constraintlayout-2.1.4\res
+org.tensorflow.lite.examples.imagesegmentation.app-jetified-camera-lifecycle-1.2.0-alpha02-28 C:\Users\ACER\.gradle\caches\transforms-3\cc93da131f972c1209f5b1c1fdfde808\transformed\jetified-camera-lifecycle-1.2.0-alpha02\res
+org.tensorflow.lite.examples.imagesegmentation.app-fragment-1.4.1-29 C:\Users\ACER\.gradle\caches\transforms-3\d7c370de826ece18769a953c14eafdd7\transformed\fragment-1.4.1\res
+org.tensorflow.lite.examples.imagesegmentation.app-navigation-common-ktx-2.4.2-30 C:\Users\ACER\.gradle\caches\transforms-3\dd93ec652f7dc19f6d3e8ba4662d6fc8\transformed\navigation-common-ktx-2.4.2\res
+org.tensorflow.lite.examples.imagesegmentation.app-navigation-fragment-2.4.2-31 C:\Users\ACER\.gradle\caches\transforms-3\ece6363344584c0ac071708f728b8553\transformed\navigation-fragment-2.4.2\res
+org.tensorflow.lite.examples.imagesegmentation.app-recyclerview-1.1.0-32 C:\Users\ACER\.gradle\caches\transforms-3\f4fb66ef1eebb13107a711a5bb2e6d33\transformed\recyclerview-1.1.0\res
+org.tensorflow.lite.examples.imagesegmentation.app-appcompat-1.4.2-33 C:\Users\ACER\.gradle\caches\transforms-3\f781285bd0a9f35189da2380b3dda1ff\transformed\appcompat-1.4.2\res
+org.tensorflow.lite.examples.imagesegmentation.app-jetified-core-ktx-1.8.0-34 C:\Users\ACER\.gradle\caches\transforms-3\fc1e777ba698580527d464a734434d87\transformed\jetified-core-ktx-1.8.0\res
+org.tensorflow.lite.examples.imagesegmentation.app-drawerlayout-1.1.1-35 C:\Users\ACER\.gradle\caches\transforms-3\fe57c8b7a645a673a4b37410ad5a4658\transformed\drawerlayout-1.1.1\res
+org.tensorflow.lite.examples.imagesegmentation.app-pngs-36 D:\IT\Mobile Programming\examples\lite\examples\image_segmentation\android\app\build\generated\res\pngs\debug
+org.tensorflow.lite.examples.imagesegmentation.app-resValues-37 D:\IT\Mobile Programming\examples\lite\examples\image_segmentation\android\app\build\generated\res\resValues\debug
+org.tensorflow.lite.examples.imagesegmentation.app-rs-38 D:\IT\Mobile Programming\examples\lite\examples\image_segmentation\android\app\build\generated\res\rs\debug
+org.tensorflow.lite.examples.imagesegmentation.app-mergeDebugResources-39 D:\IT\Mobile Programming\examples\lite\examples\image_segmentation\android\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+org.tensorflow.lite.examples.imagesegmentation.app-mergeDebugResources-40 D:\IT\Mobile Programming\examples\lite\examples\image_segmentation\android\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+org.tensorflow.lite.examples.imagesegmentation.app-merged_res-41 D:\IT\Mobile Programming\examples\lite\examples\image_segmentation\android\app\build\intermediates\merged_res\debug
+org.tensorflow.lite.examples.imagesegmentation.app-debug-42 D:\IT\Mobile Programming\examples\lite\examples\image_segmentation\android\app\src\debug\res
+org.tensorflow.lite.examples.imagesegmentation.app-main-43 D:\IT\Mobile Programming\examples\lite\examples\image_segmentation\android\app\src\main\res
